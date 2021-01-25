@@ -1,0 +1,7 @@
+FROM_DIR='path/to/your/secret_file.txt'
+TO_DIR='path/to/your/Cloud-store-dir/'
+AUTO_ADD=true
+AUTO_COMMIT=true
+COMMIT_MSG="version_$(date +%Y-%m-%d_%H-%M)"
+DBFILENAME="CHANGE_ME.txt"
+BRANCH_NAME=db-log
