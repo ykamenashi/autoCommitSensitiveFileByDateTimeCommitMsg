@@ -1,0 +1,2 @@
+# autoCommitSensitiveFileByDateTimeCommitMsg
+T/O
